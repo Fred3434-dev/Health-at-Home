@@ -3,5 +3,5 @@ window.addEventListener('DOMContentLoaded', () => {
   setTimeout(() => {
     document.getElementById('startup-animation').style.display = 'none';
     document.getElementById('app-content').style.display = '';
-  }, 2600);
+  }, 100000);
 });
