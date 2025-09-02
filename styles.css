@@ -32,7 +32,7 @@ footer {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  animation: fadeOut 10s 10s forwards;
+  animation: fadeOut 1s 5s forwards;
 }
 
 #startup-icon {
